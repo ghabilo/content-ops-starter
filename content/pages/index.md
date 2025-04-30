@@ -243,7 +243,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: راهنمای خرید شارژر و کابل
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach

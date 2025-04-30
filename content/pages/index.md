@@ -159,7 +159,7 @@ sections:
         altText: Spigen Logo
         type: ImageBlock
       - url: /images/Casetify_logo.png
-        altText: Telus logo
+        altText: Casetify logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo

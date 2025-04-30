@@ -158,7 +158,7 @@ sections:
       - url: /images/243752.png
         altText: Spigen Logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/Casetify_logo.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg

@@ -345,7 +345,7 @@ sections:
           مفیده. مقاله‌های مربوط به انتخاب کابل شارژر خیلی به دردم خورد و باعث
           شد انتخاب بهتری داشته باشم."
         tagline: ''
-        subtitle: علی رضایی
+        subtitle: فاطمه کریمی
         text: ''
         image:
           url: /images/person-placeholder-light.png

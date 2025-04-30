@@ -53,7 +53,7 @@ sections:
       می‌کنیم که می‌توانند نیازهای مختلف شما را برآورده کنند.
     items:
       - type: FeaturedItem
-        title: 500k
+        title: انواع شارژر
         subtitle: انواع شارژر
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

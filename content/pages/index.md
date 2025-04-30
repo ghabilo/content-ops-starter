@@ -598,7 +598,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: آخرین نوشته ها
       color: text-dark
       styles:
         self:

@@ -4,14 +4,14 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "<div style=\"text-align: center\">###### جهان قاب: بهترین قاب‌ها و لوازم جانبی گوشی</div>\n\n",
     "secondaryLinks": {
         "title": "",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "صفحه اصلی",
+                "altText": "",
+                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",

@@ -47,7 +47,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes hereفثطف
+    subtitle: >-
+      ما در جهان قاب، مجموعه‌ای متنوع از محصولات را برای انواع گوشی‌های هوشمند
+      ارائه می‌دهیم. در ادامه، برخی از دسته‌بندی‌های محبوب محصولات ما را معرفی
+      می‌کنیم که می‌توانند نیازهای مختلف شما را برآورده کنند.
     items:
       - type: FeaturedItem
         title: 500k

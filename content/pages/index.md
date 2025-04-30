@@ -197,7 +197,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: جدیدترین ترندهای قاب گوشی در سال 2025
       color: text-dark
       styles:
         self:

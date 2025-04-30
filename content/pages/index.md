@@ -164,7 +164,7 @@ sections:
         altText: Otterbox logo
         type: ImageBlock
       - url: /images/6.png
-        altText: Sanity logo
+        altText: UAG logo
         type: ImageBlock
       - url: /images/5.png
         altText: Case Mate logo

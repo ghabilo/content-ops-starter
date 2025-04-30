@@ -128,7 +128,7 @@ sections:
         type: FeaturedItem
     actions: []
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:

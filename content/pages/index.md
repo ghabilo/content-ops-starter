@@ -83,10 +83,12 @@ sections:
               borderRadius: x-large
       - title: قاب‌های لوکس
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          <div style="text-align: right" dir="rtl">با قاب‌های لوکس ما، گوشی خود
+          را به یک اثر هنری تبدیل کنید. این قاب‌ها با جزئیات ظریف، مواد باکیفیت
+          مانند چرم و فلز، و طراحی‌های مینیمال، ترکیبی از زیبایی و عملکرد را
+          ارائه می‌دهند. مناسب برای کسانی که به استایل اهمیت می‌دهند.</div>
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two

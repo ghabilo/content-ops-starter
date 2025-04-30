@@ -258,7 +258,7 @@ sections:
 
     actions: []
     media:
-      url: /images/hero2.svg
+      url: '/images/612+eultLdL._AC_UF894,1000_QL80_.jpg'
       altText: Fun feature preview
       type: ImageBlock
     colors: bg-light-fg-dark

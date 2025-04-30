@@ -5,28 +5,6 @@
         "type": "ImageBlock"
     },
     "text": "A description of your brand",
-    "primaryLinks": {
-        "title": "",
-        "links": [
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "secondaryLinks": {
         "title": "Company",
         "links": [

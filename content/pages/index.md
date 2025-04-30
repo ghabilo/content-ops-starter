@@ -278,7 +278,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: نظرات کاربران
     items:
       - title: >-
           "نکات نگهداری قاب و محافظ صفحه تو این بلاگ خیلی کاربردی بود. حالا

@@ -1,8 +1,8 @@
 ---
 title: بلاگ | Mobi Market
 slug: /blog
-numOfPostsPerPage: 3
-enableSearch: true
+numOfPostsPerPage: 8
+enableSearch: false
 topSections:
   - title:
       text: Featured Post

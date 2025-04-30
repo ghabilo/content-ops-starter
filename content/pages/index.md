@@ -151,7 +151,7 @@ sections:
     images:
       - altText: Empathy logo
         type: ImageBlock
-      - url: /images/Belkin-Logo.png
+      - url: /images/3.png
         altText: belkin logo
         type: ImageBlock
       - url: /images/243752.png

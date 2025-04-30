@@ -341,8 +341,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          "جهان قاب نه تنها محصولات باکیفیت داره، بلکه بلاگشون پر از اطلاعات
+          مفیده. مقاله‌های مربوط به انتخاب کابل شارژر خیلی به دردم خورد و باعث
+          شد انتخاب بهتری داشته باشم."
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-

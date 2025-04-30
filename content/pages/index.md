@@ -52,7 +52,7 @@ sections:
       می‌کنیم که می‌توانند نیازهای مختلف شما را برآورده کنند.
     items:
       - type: FeaturedItem
-        title: انواع شارژر
+        title: لوازم جانبی متنوع
         subtitle: ''
         text: >
           <div style="text-align: right" dir="rtl">از محافظ‌های صفحه شیشه‌ای

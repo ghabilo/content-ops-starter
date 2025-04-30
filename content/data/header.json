@@ -23,7 +23,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "صفحه اصلی",
             "altText": "",
             "url": "/",
             "showIcon": false,

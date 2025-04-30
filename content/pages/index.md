@@ -154,7 +154,7 @@ sections:
       - url: /images/3.png
         altText: belkin logo
         type: ImageBlock
-      - url: /images/243752.png
+      - url: /images/2.png
         altText: Spigen Logo
         type: ImageBlock
       - url: /images/1.png

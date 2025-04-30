@@ -155,7 +155,7 @@ sections:
         altText: belkin logo
         type: ImageBlock
       - url: /images/2.png
-        altText: Spigen Logo
+        altText: Casetify Logo
         type: ImageBlock
       - url: /images/1.png
         altText: Casetify logo

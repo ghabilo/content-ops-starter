@@ -349,7 +349,7 @@ sections:
         text: ''
         image:
           url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          altText: avatar
           styles:
             self:
               borderRadius: full

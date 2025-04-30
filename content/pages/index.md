@@ -147,7 +147,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: برترین برندهای تولید کننده لوازم جانبی موبایل
     images:
       - altText: Empathy logo
         type: ImageBlock

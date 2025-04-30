@@ -558,7 +558,10 @@ sections:
     type: GenericSection
 seo:
   metaTitle: بلاگ قاب گوشی و لوازم جانبی | Mobi Market
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    در Mobi Market، گوشی خود را با قاب‌های شیک و لوازم جانبی باکیفیت زیباتر
+    کنید. در بلاگ ما، جدیدترین ترندها، نکات خرید و راهنمای استفاده از لوازم
+    جانبی را کشف کنید.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

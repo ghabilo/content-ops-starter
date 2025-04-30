@@ -671,7 +671,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: ارسال
         showIcon: false
         icon: arrowRight
         iconPosition: right

@@ -25,7 +25,7 @@ sections:
         type: Button
     media:
       url: /images/Mobile_Accessories.webp
-      altText: Unblock your team boost your time to production preview
+      altText: لوازم جانبی گوشی
       elementId: ''
       type: ImageBlock
     elementId: ''

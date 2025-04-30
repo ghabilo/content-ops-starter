@@ -399,10 +399,7 @@ sections:
           بخرم. توضیحاتشون کامل و صادقانه است. حتماً بازم ازشون خرید می‌کنم."
         tagline: ''
         subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters

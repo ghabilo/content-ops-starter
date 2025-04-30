@@ -147,28 +147,27 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: برترین برندهای تولید کننده لوازم جانبی موبایل
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
+      - url: /images/3.png
+        altText: belkin logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - url: /images/2.png
+        altText: Casetify Logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
+      - url: /images/1.png
+        altText: Spigen logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+      - url: /images/4.png
+        altText: Otterbox logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
+      - url: /images/6.png
+        altText: UAG logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+      - url: /images/5.png
+        altText: Case Mate logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark

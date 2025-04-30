@@ -247,9 +247,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      <div style="text-align: right" dir="rtl">انتخاب شارژر و کابل مناسب
+      می‌تواند تأثیر زیادی بر عملکرد و طول عمر باتری گوشی شما داشته باشد. در این
+      مقاله، ما به شما نشان می‌دهیم که چگونه شارژرهایی با پشتیبانی از شارژ سریع
+      و کابل‌های مقاوم را انتخاب کنید. ما همچنین به بررسی تفاوت‌های بین شارژرهای
+      USB-C، لایتنینگ و بی‌سیم می‌پردازیم.نکاتی درباره ایمنی شارژ و جلوگیری از
+      آسیب به باتری گوشی نیز در این مقاله گنجانده شده است تا بتوانید از گوشی خود
+      به بهترین شکل مراقبت کنید.</div>
+
     actions: []
     media:
       url: /images/hero2.svg

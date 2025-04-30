@@ -33,8 +33,8 @@ styles:
 seo:
   metaTitle: بلاگ | Mobi Market
   metaDescription: >-
-    در وبلاگ Mobi Market از جدیترین ترند های لوازم جانبی و قاب گوشی و عرفی
-    بهترین لوازم جانبی گوشی
+    وبلاگ Mobi Market ارائه جدیترین ترند های قاب گوشی و معرفی بهترین و جدیترین
+    لوازم جانبی گوشی، شارژر و پاوربانک
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout

@@ -167,7 +167,7 @@ sections:
         altText: Sanity logo
         type: ImageBlock
       - url: /images/5.png
-        altText: Rangle logo
+        altText: Case Mate logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark

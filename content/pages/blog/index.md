@@ -33,8 +33,8 @@ styles:
 seo:
   metaTitle: بلاگ | Mobi Market
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    در وبلاگ Mobi Market از جدیترین ترند های لوازم جانبی و قاب گوشی و عرفی
+    بهترین لوازم جانبی گوشی
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout

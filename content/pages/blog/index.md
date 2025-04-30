@@ -1,5 +1,5 @@
 ---
-title: بلاگ
+title: بلاگ | Mobi Market
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true

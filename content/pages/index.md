@@ -11,11 +11,7 @@ sections:
     text: >+
       <div style="text-align: right">در Mobi Market، گوشی خود را با قاب‌های شیک
       و لوازم جانبی باکیفیت زیباتر کنید. در بلاگ ما، جدیدترین ترندها، نکات خرید
-      و راهنمای استفاده از لوازم جانبی را کشف کنید.[
-
-
-
-      ](https://artifacts.grokusercontent.com/#products)</div>
+      و راهنمای استفاده از لوازم جانبی را کشف کنید.\[</div>
 
     actions:
       - label: Get started

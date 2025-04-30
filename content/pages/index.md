@@ -398,7 +398,7 @@ sections:
           "بررسی‌های دقیق محصولات این سایت باعث شد با اطمینان یه شارژر بی‌سیم
           بخرم. توضیحاتشون کامل و صادقانه است. حتماً بازم ازشون خرید می‌کنم."
         tagline: ''
-        subtitle: 'Jane Walters, Company'
+        subtitle: مازیار طراوت
         text: ''
         image:
           url: /images/person-placeholder-light.png

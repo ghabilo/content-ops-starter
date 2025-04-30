@@ -8,11 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
-      <div style="text-align: right">در Mobi Market، گوشی خود را با قاب‌های شیک
-      و لوازم جانبی باکیفیت زیباتر کنید. در بلاگ ما، جدیدترین ترندها، نکات خرید
-      و راهنمای استفاده از لوازم جانبی را کشف کنید.</div>
-
+    text: >
+      <div style="text-align: right" dir="rtl">در Mobi Market، گوشی خود را با
+      قاب‌های شیک و لوازم جانبی باکیفیت زیباتر کنید. در بلاگ ما، جدیدترین
+      ترندها، نکات خرید و راهنمای استفاده از لوازم جانبی را کشف کنید.</div>
     actions:
       - label: مشاهده مقالات
         altText: ''
@@ -41,21 +40,25 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: معرفی جدیدترین پرطرفدارترین لولزم جانبی موبایل
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      ما در جهان قاب، مجموعه‌ای متنوع از محصولات را برای انواع گوشی‌های هوشمند
+      ارائه می‌دهیم. در ادامه، برخی از دسته‌بندی‌های محبوب محصولات ما را معرفی
+      می‌کنیم که می‌توانند نیازهای مختلف شما را برآورده کنند.
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: لوازم جانبی متنوع
+        subtitle: ''
+        text: >
+          <div style="text-align: right" dir="rtl">از محافظ‌های صفحه شیشه‌ای
+          گرفته تا شارژرهای بی‌سیم و هدفون‌های باکیفیت، ما همه چیزهایی که برای
+          تکمیل تجربه استفاده از گوشی خود نیاز دارید را ارائه می‌دهیم. محصولات
+          ما با جدیدترین مدل‌های گوشی سازگار هستند.</div>
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -78,12 +81,14 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: قاب‌های لوکس
+        subtitle: ''
+        text: >+
+          <div style="text-align: right" dir="rtl">با قاب‌های لوکس ما، گوشی خود
+          را به یک اثر هنری تبدیل کنید. این قاب‌ها با جزئیات ظریف، مواد باکیفیت
+          مانند چرم و فلز، و طراحی‌های مینیمال، ترکیبی از زیبایی و عملکرد را
+          ارائه می‌دهند. مناسب برای کسانی که به استایل اهمیت می‌دهند.</div>
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -104,11 +109,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: ''
+        text: >+
+          <div style="text-align: right" dir="rtl">این قاب‌ها برای کسانی طراحی
+          شده‌اند که به دنبال حداکثر محافظت هستند. با استفاده از مواد باکیفیت
+          مانند پلی‌کربنات و TPU، این قاب‌ها در برابر ضربه، خراش و سقوط مقاومت
+          بالایی دارند. ایده‌آل برای ماجراهای روزمره یا فعالیت‌های خارج از
+          خانه.</div>
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -128,7 +136,7 @@ sections:
         type: FeaturedItem
     actions: []
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:

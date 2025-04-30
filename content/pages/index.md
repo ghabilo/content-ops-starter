@@ -55,10 +55,12 @@ sections:
       - type: FeaturedItem
         title: انواع شارژر
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          <div style="text-align: left">از محافظ‌های صفحه شیشه‌ای گرفته تا
+          شارژرهای بی‌سیم و هدفون‌های باکیفیت، ما همه چیزهایی که برای تکمیل
+          تجربه استفاده از گوشی خود نیاز دارید را ارائه می‌دهیم. محصولات ما با
+          جدیدترین مدل‌های گوشی سازگار هستند.</div>
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

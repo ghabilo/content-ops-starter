@@ -397,7 +397,7 @@ sections:
       - title: >-
           "بررسی‌های دقیق محصولات این سایت باعث شد با اطمینان یه شارژر بی‌سیم
           بخرم. توضیحاتشون کامل و صادقانه است. حتماً بازم ازشون خرید می‌کنم."
-        tagline: Testimonial 5
+        tagline: ''
         subtitle: 'Jane Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

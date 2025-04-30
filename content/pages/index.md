@@ -369,8 +369,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "من همیشه از ترندهای جدید قاب گوشی عقب بودم، این سایت با مقاله‌های
+          به‌روز و جذابش منو با کلی ایده جدید آشنا کرد. کیفیت محصولاتشون هم حرف
+          نداره!"
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: ''

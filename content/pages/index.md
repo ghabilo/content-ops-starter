@@ -259,7 +259,7 @@ sections:
     actions: []
     media:
       url: '/images/612+eultLdL._AC_UF894,1000_QL80_.jpg'
-      altText: Fun feature preview
+      altText: شارژر
       type: ImageBlock
     colors: bg-light-fg-dark
     styles:

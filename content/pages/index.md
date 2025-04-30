@@ -41,7 +41,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: معرفی جدیدترین پرطرفدارترین لولزم جانبی موبایل
       color: text-dark
       styles:
         self:

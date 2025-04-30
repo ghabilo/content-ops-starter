@@ -158,7 +158,7 @@ sections:
         altText: Casetify Logo
         type: ImageBlock
       - url: /images/1.png
-        altText: Casetify logo
+        altText: Spigen logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo

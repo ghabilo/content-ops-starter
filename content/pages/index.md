@@ -281,8 +281,9 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "نکات نگهداری قاب و محافظ صفحه تو این بلاگ خیلی کاربردی بود. حالا
+          می‌دونم چطور از لوازم جانبیم بهتر مراقبت کنم. مرسی از تیم
+          حرفه‌ای‌شون!"
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-

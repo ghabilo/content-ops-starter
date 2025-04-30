@@ -215,7 +215,7 @@ sections:
 
     actions: []
     media:
-      title: Title of the video
+      title: قاب های گوشی ترند
       url: /images/placeholder-video.mp4
       autoplay: true
       loop: true

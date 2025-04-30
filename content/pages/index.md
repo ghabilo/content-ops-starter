@@ -156,7 +156,7 @@ sections:
         altText: Wellster logo
         type: ImageBlock
       - url: /images/243752.png
-        altText: Vise logo
+        altText: Spigen Logo
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo

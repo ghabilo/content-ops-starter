@@ -14,7 +14,7 @@ sections:
       و راهنمای استفاده از لوازم جانبی را کشف کنید.</div>
 
     actions:
-      - label: Get started
+      - label: مشاهده مقالات
         altText: ''
         url: /
         showIcon: false

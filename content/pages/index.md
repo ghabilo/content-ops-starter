@@ -153,7 +153,7 @@ sections:
         altText: Empathy logo
         type: ImageBlock
       - url: /images/Belkin-Logo.png
-        altText: Wellster logo
+        altText: belkin logo
         type: ImageBlock
       - url: /images/243752.png
         altText: Spigen Logo

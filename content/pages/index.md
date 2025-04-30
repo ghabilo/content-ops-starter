@@ -639,7 +639,7 @@ sections:
         - name: نام شما
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: نام شما
           isRequired: true
           width: full
           type: TextFormControl

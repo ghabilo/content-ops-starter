@@ -160,7 +160,7 @@ sections:
       - url: /images/1.png
         altText: Spigen logo
         type: ImageBlock
-      - url: /images/1439_e73b6cda514b40e395e1b19630df8d2d.jpg
+      - url: /images/4.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg

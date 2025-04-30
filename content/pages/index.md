@@ -285,7 +285,7 @@ sections:
           می‌دونم چطور از لوازم جانبیم بهتر مراقبت کنم. مرسی از تیم
           حرفه‌ای‌شون!"
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: نازنین احمدی
         text: ''
         image:
           url: /images/person-placeholder-light.png

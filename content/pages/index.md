@@ -373,7 +373,7 @@ sections:
           به‌روز و جذابش منو با کلی ایده جدید آشنا کرد. کیفیت محصولاتشون هم حرف
           نداره!"
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: علی رضایی
         text: ''
         image:
           url: /images/person-placeholder-light.png

@@ -629,11 +629,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      با Mobi Marketدر ارتباط باشید! ما آماده پاسخگویی به سوالات شما، دریافت
+      نظرات و پیشنهادات، و ارائه پشتیبانی برای انتخاب بهترین قاب‌ها و لوازم
+      جانبی گوشی هستیم. از طریق ایمیل یا شبکه‌های اجتماعی با ما تماس بگیرید.
+      همچنین می‌توانید با پر کردن فرم تماس در سایت، پیام خود را برای ما ارسال
+      کنید تا در اسرع وقت به شما پاسخ دهیم. Mobi Market، همراه شما برای تجربه‌ای
+      بهتر در دنیای تکنولوژی!
     media:
       fields:
         - name: Name

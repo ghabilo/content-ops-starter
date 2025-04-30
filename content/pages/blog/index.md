@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: بلاگ
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
@@ -31,10 +31,10 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: بلاگ | Mobi Market
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    وبلاگ Mobi Market ارائه جدیترین ترند های قاب گوشی و معرفی بهترین و جدیترین
+    لوازم جانبی گوشی، شارژر و پاوربانک
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout

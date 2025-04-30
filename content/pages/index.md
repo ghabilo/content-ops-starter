@@ -278,17 +278,15 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: نظرات کاربران
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "نکات نگهداری قاب و محافظ صفحه تو این بلاگ خیلی کاربردی بود. حالا
+          می‌دونم چطور از لوازم جانبیم بهتر مراقبت کنم. مرسی از تیم
+          حرفه‌ای‌شون!"
+        tagline: ''
+        subtitle: نازنین احمدی
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -341,14 +339,40 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "Mobi Market نه تنها محصولات باکیفیت داره، بلکه بلاگشون پر از اطلاعات
+          مفیده. مقاله‌های مربوط به انتخاب کابل شارژر خیلی به دردم خورد و باعث
+          شد انتخاب بهتری داشته باشم."
+        tagline: ''
+        subtitle: فاطمه کریمی
+        text: ''
+        image:
+          url: /images/person-placeholder-light.png
+          altText: avatar
+          styles:
+            self:
+              borderRadius: full
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        type: FeaturedItem
+      - title: >-
+          "من همیشه از ترندهای جدید قاب گوشی عقب بودم، این سایت با مقاله‌های
+          به‌روز و جذابش منو با کلی ایده جدید آشنا کرد. کیفیت محصولاتشون هم حرف
+          نداره!"
+        tagline: ''
+        subtitle: علی رضایی
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -371,44 +395,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "بررسی‌های دقیق محصولات این سایت باعث شد با اطمینان یه شارژر بی‌سیم
+          بخرم. توضیحاتشون کامل و صادقانه است. حتماً بازم ازشون خرید می‌کنم."
+        tagline: ''
+        subtitle: مازیار طراوت
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -502,14 +493,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
-      <div style="text-align: right">با Mobi Marketدر ارتباط باشید! ما آماده
-      پاسخگویی به سوالات شما، دریافت نظرات و پیشنهادات، و ارائه پشتیبانی برای
-      انتخاب بهترین قاب‌ها و لوازم جانبی گوشی هستیم. از طریق ایمیل یا شبکه‌های
-      اجتماعی با ما تماس بگیرید. همچنین می‌توانید با پر کردن فرم تماس در سایت،
-      پیام خود را برای ما ارسال کنید تا در اسرع وقت به شما پاسخ دهیم. Mobi
-      Market، همراه شما برای تجربه‌ای بهتر در دنیای تکنولوژی!</div>
-
+    text: >
+      <div style="text-align: right" dir="rtl">با Mobi Marketدر ارتباط باشید! ما
+      آماده پاسخگویی به سوالات شما، دریافت نظرات و پیشنهادات، و ارائه پشتیبانی
+      برای انتخاب بهترین قاب‌ها و لوازم جانبی گوشی هستیم. از طریق ایمیل یا
+      شبکه‌های اجتماعی با ما تماس بگیرید. همچنین می‌توانید با پر کردن فرم تماس
+      در سایت، پیام خود را برای ما ارسال کنید تا در اسرع وقت به شما پاسخ دهیم.
+      Mobi Market، همراه شما برای تجربه‌ای بهتر در دنیای تکنولوژی!</div>
     media:
       fields:
         - name: Name
@@ -560,8 +550,11 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: بلاگ قاب گوشی و لوازم جانبی | Mobi Market
+  metaDescription: >-
+    در Mobi Market، گوشی خود را با قاب‌های شیک و لوازم جانبی باکیفیت زیباتر
+    کنید. در بلاگ ما، جدیدترین ترندها، نکات خرید و راهنمای استفاده از لوازم
+    جانبی را کشف کنید.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

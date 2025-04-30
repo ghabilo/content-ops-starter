@@ -157,7 +157,7 @@ sections:
       - url: /images/243752.png
         altText: Spigen Logo
         type: ImageBlock
-      - url: /images/Casetify_logo.png
+      - url: /images/1.png
         altText: Casetify logo
         type: ImageBlock
       - url: /images/contenful-logo.svg

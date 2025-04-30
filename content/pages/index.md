@@ -636,7 +636,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       fields:
-        - name: نام شما
+        - name: Name
           label: Name
           hideLabel: true
           placeholder: نام شما

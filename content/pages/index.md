@@ -161,7 +161,7 @@ sections:
         altText: Spigen logo
         type: ImageBlock
       - url: /images/4.png
-        altText: Contentful logo
+        altText: Otterbox logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo

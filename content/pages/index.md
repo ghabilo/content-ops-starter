@@ -47,9 +47,9 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      ما در جهان قاب، مجموعه‌ای متنوع از محصولات را برای انواع گوشی‌های هوشمند
-      ارائه می‌دهیم. در ادامه، برخی از دسته‌بندی‌های محبوب محصولات ما را معرفی
-      می‌کنیم که می‌توانند نیازهای مختلف شما را برآورده کنند.
+      ما در Mobi Market، مجموعه‌ای متنوع از محصولات را برای انواع گوشی‌های
+      هوشمند ارائه می‌دهیم. در ادامه، برخی از دسته‌بندی‌های محبوب محصولات ما را
+      معرفی می‌کنیم که می‌توانند نیازهای مختلف شما را برآورده کنند.
     items:
       - type: FeaturedItem
         title: لوازم جانبی متنوع
@@ -197,21 +197,25 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: جدیدترین ترندهای قاب گوشی در سال 2025
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >+
+      <div style="text-align: right" dir="rtl">جهان مد و تکنولوژی هر سال تغییر
+      می‌کند، و قاب‌های گوشی نیز از این قاعده مستثنی نیستند. در این مقاله، ما
+      نگاهی به ترندهای برتر سال 2025 می‌اندازیم، از قاب‌های شفاف با طرح‌های
+      گرافیکی گرفته تا قاب‌های پایدار و سازگار با محیط زیست. اگر می‌خواهید گوشی
+      شما همیشه به‌روز باشد، این مقاله را از دست ندهید.ما همچنین به بررسی
+      تأثیرات فرهنگی و اجتماعی بر طراحی قاب‌ها می‌پردازیم و نشان می‌دهیم که
+      چگونه برندهای بزرگ از این ترندها برای جذب مخاطبان استفاده می‌کنند.</div>
+
     actions: []
     media:
-      title: Title of the video
+      title: قاب های گوشی ترند
       url: /images/placeholder-video.mp4
       autoplay: true
       loop: true
@@ -239,75 +243,28 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: راهنمای خرید شارژر و کابل
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    subtitle: ''
+    text: >+
+      <div style="text-align: right" dir="rtl">انتخاب شارژر و کابل مناسب
+      می‌تواند تأثیر زیادی بر عملکرد و طول عمر باتری گوشی شما داشته باشد. در این
+      مقاله، ما به شما نشان می‌دهیم که چگونه شارژرهایی با پشتیبانی از شارژ سریع
+      و کابل‌های مقاوم را انتخاب کنید. ما همچنین به بررسی تفاوت‌های بین شارژرهای
+      USB-C، لایتنینگ و بی‌سیم می‌پردازیم.نکاتی درباره ایمنی شارژ و جلوگیری از
+      آسیب به باتری گوشی نیز در این مقاله گنجانده شده است تا بتوانید از گوشی خود
+      به بهترین شکل مراقبت کنید.</div>
+
+    actions: []
     media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
+      url: '/images/612+eultLdL._AC_UF894,1000_QL80_.jpg'
+      altText: شارژر
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
     type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
@@ -511,98 +468,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
-    items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - type: FeaturedPostsSection
     title:
       type: TitleBlock

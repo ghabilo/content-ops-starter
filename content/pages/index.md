@@ -24,7 +24,8 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/mobile-phone-accessories-iphone-telephone-smartphone-png-favpng-2ZSkD7YDAixRiX9RijVqD7f14.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock

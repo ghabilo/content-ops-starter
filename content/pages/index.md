@@ -204,11 +204,15 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      <div style="text-align: right" dir="rtl">جهان مد و تکنولوژی هر سال تغییر
+      می‌کند، و قاب‌های گوشی نیز از این قاعده مستثنی نیستند. در این مقاله، ما
+      نگاهی به ترندهای برتر سال 2025 می‌اندازیم، از قاب‌های شفاف با طرح‌های
+      گرافیکی گرفته تا قاب‌های پایدار و سازگار با محیط زیست. اگر می‌خواهید گوشی
+      شما همیشه به‌روز باشد، این مقاله را از دست ندهید.ما همچنین به بررسی
+      تأثیرات فرهنگی و اجتماعی بر طراحی قاب‌ها می‌پردازیم و نشان می‌دهیم که
+      چگونه برندهای بزرگ از این ترندها برای جذب مخاطبان استفاده می‌کنند.</div>
+
     actions: []
     media:
       title: Title of the video

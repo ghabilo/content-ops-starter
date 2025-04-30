@@ -163,7 +163,7 @@ sections:
       - url: /images/4.png
         altText: Otterbox logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/6.png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/5.png

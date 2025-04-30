@@ -31,7 +31,7 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: 'بلاگ | '
+  metaTitle: بلاگ | Mobi Market
   metaDescription: >-
     This is the blog of the demo site where we post about technology, product,
     and design.

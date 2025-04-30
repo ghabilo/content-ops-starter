@@ -24,8 +24,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: >-
-        /images/mobile-phone-accessories-iphone-telephone-smartphone-png-favpng-2ZSkD7YDAixRiX9RijVqD7f14.jpg
+      url: /images/Mobile_Accessories.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock

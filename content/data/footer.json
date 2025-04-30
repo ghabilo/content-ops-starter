@@ -30,7 +30,7 @@
     },
     "socialLinks": [],
     "legalLinks": [],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "<div style=\"text-align: center\">© 2025 جهان قاب. تمامی حقوق محفوظ است.</div>\n\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

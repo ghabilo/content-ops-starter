@@ -206,10 +206,10 @@ sections:
     subtitle: ''
     text: >+
       <div style="text-align: right" dir="rtl">جهان مد و تکنولوژی هر سال تغییر
-      می‌کند، و قاب‌های گوشی نیز از این قاعده مستثنی نیستند. در این مقاله، ما
+      می‌کند، و قاب‌های گوشی نیز از این قاعده مستثنی نیستند. در این وبلاگ، ما
       نگاهی به ترندهای برتر سال 2025 می‌اندازیم، از قاب‌های شفاف با طرح‌های
       گرافیکی گرفته تا قاب‌های پایدار و سازگار با محیط زیست. اگر می‌خواهید گوشی
-      شما همیشه به‌روز باشد، این مقاله را از دست ندهید.ما همچنین به بررسی
+      شما همیشه به‌روز باشد، مقالات ترند ما را از دست ندهید.ما همچنین به بررسی
       تأثیرات فرهنگی و اجتماعی بر طراحی قاب‌ها می‌پردازیم و نشان می‌دهیم که
       چگونه برندهای بزرگ از این ترندها برای جذب مخاطبان استفاده می‌کنند.</div>
 
@@ -250,11 +250,11 @@ sections:
     text: >+
       <div style="text-align: right" dir="rtl">انتخاب شارژر و کابل مناسب
       می‌تواند تأثیر زیادی بر عملکرد و طول عمر باتری گوشی شما داشته باشد. در این
-      مقاله، ما به شما نشان می‌دهیم که چگونه شارژرهایی با پشتیبانی از شارژ سریع
+      وبلاگ، ما به شما نشان می‌دهیم که چگونه شارژرهایی با پشتیبانی از شارژ سریع
       و کابل‌های مقاوم را انتخاب کنید. ما همچنین به بررسی تفاوت‌های بین شارژرهای
-      USB-C، لایتنینگ و بی‌سیم می‌پردازیم.نکاتی درباره ایمنی شارژ و جلوگیری از
-      آسیب به باتری گوشی نیز در این مقاله گنجانده شده است تا بتوانید از گوشی خود
-      به بهترین شکل مراقبت کنید.</div>
+      USB-C، لایتنینگ و بی‌سیم می‌پردازیم. نکاتی درباره ایمنی شارژ و جلوگیری از
+      آسیب به باتری گوشی نیز در این وبلاگ موجود است تا بتوانید از گوشی خود به
+      بهترین شکل مراقبت کنید.</div>
 
     actions: []
     media:
@@ -290,36 +290,6 @@ sections:
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
           styles:
             self:
               borderRadius: full
@@ -409,36 +379,6 @@ sections:
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
         styles:
           self:
             padding:

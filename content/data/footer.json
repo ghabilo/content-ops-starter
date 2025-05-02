@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "<div style=\"text-align: center\">###### جهان قاب: بهترین قاب‌ها و لوازم جانبی گوشی</div>\n\n",
+    "text": "<div style=\"text-align: center\">###### Mobi Market: بهترین قاب‌ها و لوازم جانبی گوشی</div>\n\n",
     "secondaryLinks": {
         "title": "",
         "links": [
@@ -30,7 +30,7 @@
     },
     "socialLinks": [],
     "legalLinks": [],
-    "copyrightText": "<div style=\"text-align: center\">© 2025 جهان قاب. تمامی حقوق محفوظ است.</div>\n\n",
+    "copyrightText": "<div style=\"text-align: center\">© 2025 Mobi Market. تمامی حقوق محفوظ است.</div>\n\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

@@ -35,7 +35,6 @@ seo:
   metaDescription: >-
     وبلاگ Mobi Market ارائه جدیترین ترند های قاب گوشی و معرفی بهترین و جدیترین
     لوازم جانبی گوشی، شارژر و پاوربانک
-  socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
 bottomSections: []

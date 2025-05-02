@@ -108,7 +108,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: قاب های ضد ضربه
         subtitle: ''
         text: >+
           <div style="text-align: right" dir="rtl">این قاب‌ها برای کسانی طراحی
